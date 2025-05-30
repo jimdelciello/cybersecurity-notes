@@ -34,7 +34,21 @@ This repository contains selected notes and summaries from hands-on cybersecurit
 - John the Ripper  
 - Metasploit Framework  
 
----
+------
+
+## 🏛️ Governance & Risk Case Study
+
+This section includes written work developed during my Network Security coursework focused on Governance, Risk, and Compliance (GRC). These case studies apply frameworks such as NIST 800-30 and HIPAA Security Rule standards to practical enterprise risk scenarios.
+
+📄 **[HHS SRA Report](https://github.com/jimdelciello/cybersecurity-notes/blob/main/HHS%20SRA%20Report%204%205%2025.pdf)**  
+A simulated Security Risk Assessment for a healthcare organization using HIPAA and NIST 800-30 methodologies. Covered administrative, technical, and physical safeguards; identified threats; and proposed actionable mitigation strategies.
+
+📄 **[TechNova Memorandum](https://github.com/jimdelciello/cybersecurity-notes/blob/main/TechNova%20Memorandum%204%205%2025.pdf)**  
+An internal risk advisory memo addressing governance gaps, residual risks, and information assurance objectives aligned with NIST-based risk modeling.
+
+> *Instructor Feedback:*  
+> *"Exceptional work. This will serve as a benchmark for future students."*
+
 
 ## 🧠 Certification Path
 - **CompTIA Security+ (SY0-701)** – Exam scheduled for September 2025
